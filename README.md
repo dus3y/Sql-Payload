@@ -1,0 +1,2 @@
+# Sql-Payload
+I WILL EXPLAIN WHAT TO DO FOR EACH ONE!
